@@ -1,5 +1,4 @@
-<h1> Configuration done </h1>
-<h2>Hello Everyone</h2>
-<h3>Hey! world</h3>
+<center><h1> Deploy successful! </h1>
+	<img src="download.jpg"></center>
 
 
